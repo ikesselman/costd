@@ -1,2 +1,2 @@
 # costd
-Dockers playground
+Dockers playground for getting stats
